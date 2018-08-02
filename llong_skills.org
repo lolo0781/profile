@@ -1,0 +1,43 @@
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+LATEX_HEADER: \usepackage{courier}
+#+LATEX_HEADER: \usepackage[margin=1.25in]{geometry}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{siunitx}
+#+LATEX_HEADER: \hypersetup{colorlinks=true}
+
+* Elaborate on the following skills:
+
+- Experience running scientific workloads on large HPC clusters
+
+- Experience with running MPI based parallel models on HPC clusters 
+  with low latency interconnects.
+
+- Demonstrated skill in using HPC systems including system optimization 
+  through application performance optimization, understanding of 
+  application scaling properties, workflow management, job scheduling, 
+  user resource management and problem resolution.
+
+- Demonstrated skill in programming languages and in scripting languages 
+  such as Fortran, Python Perl, and AWK, and commonly used shells (sh,
+  bash, csh, ksh, etc.).
+
+- Knowledge of the tools (compilers, editors, debuggers, performance 
+  analysis, etc.) required to effectively program and optimize HPC
+  systems.
+
+- Communication skills
+
+- Good oral and written communication skills in English.
+
+- Skill in conveying complex technical concepts to others of various 
+  technical backgrounds.
+
+- Experience dealing with user issues in a production, end-user 
+  service-oriented HPC environment.
+
+- Ability to work with a variety of people including users, colleagues,
+  vendors, and outside experts as a distributed team utilizing collaboration 
+  tools.
+
+- Knowledge of HPC technologies and trends.

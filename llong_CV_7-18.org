@@ -1,0 +1,19 @@
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+LATEX_HEADER: \usepackage{courier}
+#+LATEX_HEADER: \usepackage[margin=1.25in]{geometry}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{siunitx}
+#+LATEX_HEADER: \hypersetup{colorlinks=true}
+
+** Profile
+
+** Contact Information
+
+** Skills
+
+** Employment History & Work Experience
+
+** Research Experience
+
+** Education
